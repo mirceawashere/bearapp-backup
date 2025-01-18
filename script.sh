@@ -1,0 +1,1 @@
+cp /Users/{username}/Library/Group\ Containers/9K33E3U3T4.net.shinyfrog.bear/Application\ Data/database.sqlite /Users/{username}/{path-to-cloud-storage-folder}
