@@ -14,10 +14,7 @@ I needed a backup, so I came up with the following solution.
 
 ### 1. make a .sh script to copy the database to your cloud backup folder
 
-the script should be as follows:
-
-```
-cp /Users/{username}/Library/Group\ Containers/9K33E3U3T4.net.shinyfrog.bear/Application\ Data/database.sqlite /Users/{username}/{path-to-cloud-folder}
+adapt/alter the [script](https://github.com/mirceawashere/bearapp-backup/blob/main/script.sh) to suit your system path
 
 ```
 
