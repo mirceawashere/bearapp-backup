@@ -23,7 +23,7 @@ cp /Users/{username}/Library/Group\ Containers/9K33E3U3T4.net.shinyfrog.bear/App
 
 ### 2. automate the process to make sure that the script runs at 8 PM every day
 
-so I ~know~ that there are better ways to do this, but I wanted a simple solution using **cron**. 
+so I <ins>know</ins> that there are better ways to do this, but I wanted a simple solution using **cron**. 
 
 using your terminal, enter the following:
 
