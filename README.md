@@ -1,7 +1,7 @@
 # **# bearapp backup**
 basically a .sh script for the automatic backup of the  [Bear app](https://bear.app) notes database
 
-==🔵requierments==: in my current set-up, I already have a cloud-based backup tool (Dropbox), which automatically backups certain folders on my hard drive. So you’re going to need something similar for this whole thing to work.
+**requierments**: in my current set-up, I already have a cloud-based backup tool (Dropbox), which automatically backups certain folders on my hard drive. So you’re going to need something similar for this whole thing to work.
 
 ## the idea
 This idea came up after I read the [documentation](https://bear.app/faq/where-are-bears-notes-located/) of the [Bear app](https://bear.app), where it stated that notes are ***only*** stored on a local macOS database located at: 
@@ -23,7 +23,7 @@ cp /Users/{username}/Library/Group\ Containers/9K33E3U3T4.net.shinyfrog.bear/App
 
 ### 2. automate the process to make sure that the script runs at 8 PM every day
 
-so I ~know~ that there are better ways to do this, but I wanted a simple solution using ==🟡cron==. 
+so I ~know~ that there are better ways to do this, but I wanted a simple solution using **cron**. 
 
 using your terminal, enter the following:
 
