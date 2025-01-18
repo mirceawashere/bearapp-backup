@@ -16,7 +16,7 @@ I needed a backup, so I came up with the following solution.
 
 adapt/alter the [script](https://github.com/mirceawashere/bearapp-backup/blob/main/script.sh) to suit your system path
 
-```
+
 
 ### 2. automate the process to make sure that the script runs at 8 PM every day
 
